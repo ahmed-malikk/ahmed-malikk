@@ -1,8 +1,8 @@
 # Ahmed Malik
 
-I’m transitioning from sales and client support into software QA and project coordination. My portfolio brings together requirements, working software, test plans, and documented results.
+My work brings together client communication, sales and project coordination. I enjoy understanding a problem, organizing the next steps and keeping people informed. This portfolio shows how I approach requirements, planning, software and testing.
 
-**Seeking:** QA internships and entry-level project coordination opportunities in Lahore or remotely. Also open to sales development and customer support roles.
+**Open to:** project coordination, sales operations, client success and business development roles, as well as PM and QA internships in Lahore or remotely.
 
 [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/)
 
