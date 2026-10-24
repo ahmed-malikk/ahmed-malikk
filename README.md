@@ -1,26 +1,45 @@
-# Ahmed Malik
+# Ahmed M.
 
-My work brings together client communication, sales and project coordination. I enjoy understanding a problem, organizing the next steps and keeping people informed. This portfolio shows how I approach requirements, planning, software and testing.
+Software, people, and the details that keep a project moving.
 
-**Open to:** project coordination, sales operations, client success and business development roles, as well as PM and QA internships in Lahore or remotely.
+I build web apps and work on the planning and testing around them. Before that, I worked in client-facing roles, so I’m comfortable asking questions, explaining the next step, and following through.
 
-[LinkedIn](https://www.linkedin.com/in/ahmedmalik494/)
+Based in **Lahore**. Open to **software, QA, and client / project coordination** opportunities.
 
-## Selected projects
+[Email](mailto:ahmedmalikk494@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/)
 
-| Project | What to review | Evidence |
-| --- | --- | --- |
-| [FlowPlan](https://github.com/ahmed-malikk/FlowPlan) | Critical-path scheduling, dependencies and slack | [Demo](https://flow-plan-five.vercel.app/) · [PRD](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/PRD.md) · [Test report](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/test-report.md) |
-| [QueueCare](https://github.com/ahmed-malikk/QueueCare) | Clinic queue prototype with role-based workflows | [Demo](https://queuecare-zeta.vercel.app/) · [BRD](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/BRD.md) · [Test report](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/test-report.md) |
-| [SauceDemo QA Testing](https://github.com/ahmed-malikk/saucedemo-qa-testing) | Manual test cases and defect reports | Four login cases recorded as executed; wider scope remains planned. Some defect reproduction details need confirmation. |
-| [CommitteeKeeper](https://github.com/ahmed-malikk/CommitteeKeeper) | Savings committee tracker with payments, receipts and audit history | [Demo](https://committeekeeper.vercel.app/) · Requirements and test documentation in the repository |
+---
 
-These are personal portfolio projects, separate from paid employment. QueueCare and CommitteeKeeper have not yet been adopted by a real clinic or committee. Test reports describe recorded runs; they are not a guarantee of the current deployment state.
+### A few things I’ve built
 
-## Background and learning
+**[FlowPlan ↗](https://github.com/ahmed-malikk/FlowPlan)**  
+If one task slips, does the whole deadline move? A project planner that makes dependencies, critical paths, and slack easier to understand.
 
-- Sales and client support experience at IBEX, CallStorm and HOF Global.
-- Project Manager internship at iTechGemini Pvt Ltd, May–August 2024: project tracking, task boards and documentation.
-- Developing practical QA skills through test case design, defect documentation, and projects using TypeScript, Next.js, Supabase, Vitest and Playwright.
+[Try it](https://flow-plan-five.vercel.app/) · [Product brief](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/PRD.md) · [Testing](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/test-report.md)
 
-Start with **SauceDemo** for manual QA, **FlowPlan** for project coordination, or **QueueCare** for requirements and workflow analysis.
+**[QueueCare ↗](https://github.com/ahmed-malikk/QueueCare)**  
+A clinic queue prototype with separate views for reception, the doctor, and patients. An exercise in turning an everyday workflow into clear requirements and working software.
+
+[Try it](https://queuecare-zeta.vercel.app/) · [Business requirements](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/BRD.md) · [Testing](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/test-report.md)
+
+**[CommitteeKeeper ↗](https://github.com/ahmed-malikk/CommitteeKeeper)**  
+A tracker for a savings committee: who paid, whose turn is next, and what changed. Built around payment records, receipts, and an audit history.
+
+[Try it](https://committeekeeper.vercel.app/) · [Code and documentation](https://github.com/ahmed-malikk/CommitteeKeeper)
+
+**[SauceDemo QA ↗](https://github.com/ahmed-malikk/saucedemo-qa-testing)**  
+A manual testing sample with test cases, execution records, and defect reports. Four login cases are recorded as executed; the rest of the scope is marked as planned.
+
+These are personal projects. Each repository has its own scope, test evidence, and remaining work.
+
+### What I work with
+
+**Build:** TypeScript, Next.js, SQL, Supabase  
+**Check:** Playwright, Vitest, manual test cases  
+**Coordinate:** Jira, ClickUp, HubSpot, requirements and status updates
+
+### A little background
+
+I’ve worked in sales and client-facing roles at HOF Global, ibex, LiveAdmins, and CallStorm. During my PM internship at iTechGemini, I supported task tracking, sprint records, meeting actions, and project documentation.
+
+The thread through all of it: understand the need, keep the work organized, and make the next step clear.
