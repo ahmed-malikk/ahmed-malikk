@@ -1,45 +1,45 @@
 # Ahmed M.
 
-Software, people, and the details that keep a project moving.
+**Software Engineer · Software QA · Client & Project Coordination**
 
-I build web apps and work on the planning and testing around them. Before that, I worked in client-facing roles, so I’m comfortable asking questions, explaining the next step, and following through.
+I build and test web applications, with a background in client communication and project coordination. Based in Lahore, Pakistan. Open to jobs and internships where I can contribute to software development, testing or project delivery.
 
-Based in **Lahore**. Open to **software, QA, and client / project coordination** opportunities.
+[Portfolio](https://ahmed-m-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/) · [Email](mailto:ahmedmalikk494@gmail.com)
 
-[Email](mailto:ahmedmalikk494@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/)
+[![Ahmed’s interactive portfolio: an original 3D character in a checkerboard studio](https://raw.githubusercontent.com/iahmedmalik/ahmed-m-portfolio/main/public/readme/hero-preview.gif)](https://ahmed-m-portfolio.vercel.app/)
 
----
+## How I work
 
-### A few things I’ve built
+<a href="https://ahmed-m-portfolio.vercel.app/"><img align="right" width="135" src="https://raw.githubusercontent.com/iahmedmalik/ahmed-m-portfolio/main/public/readme/avatar-preview.gif" alt="Animated illustrated avatar with glasses, following the cursor" /></a>
 
-**[FlowPlan ↗](https://github.com/ahmed-malikk/FlowPlan)**  
-If one task slips, does the whole deadline move? A project planner that makes dependencies, critical paths, and slack easier to understand.
+I like understanding the problem before writing the solution: ask questions, document the requirements, build something useful, and check that it behaves as expected.
 
-[Try it](https://flow-plan-five.vercel.app/) · [Product brief](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/PRD.md) · [Testing](https://github.com/ahmed-malikk/FlowPlan/blob/main/docs/test-report.md)
+- **Build:** TypeScript, Next.js, SQL and Supabase.
+- **Test:** Playwright, Vitest, manual test case design, API testing and defect reporting.
+- **Coordinate:** Jira, ClickUp, HubSpot, sprint tracking, meeting actions and status updates.
 
-**[QueueCare ↗](https://github.com/ahmed-malikk/QueueCare)**  
-A clinic queue prototype with separate views for reception, the doctor, and patients. An exercise in turning an everyday workflow into clear requirements and working software.
+The hero and avatar above are animated recordings of my portfolio. Click either to explore the interactive version.
 
-[Try it](https://queuecare-zeta.vercel.app/) · [Business requirements](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/BRD.md) · [Testing](https://github.com/ahmed-malikk/QueueCare/blob/main/docs/test-report.md)
+<br clear="all" />
 
-**[CommitteeKeeper ↗](https://github.com/ahmed-malikk/CommitteeKeeper)**  
-A tracker for a savings committee: who paid, whose turn is next, and what changed. Built around payment records, receipts, and an audit history.
+## Selected work
 
-[Try it](https://committeekeeper.vercel.app/) · [Code and documentation](https://github.com/ahmed-malikk/CommitteeKeeper)
+| Project | The problem I worked on | Explore |
+| --- | --- | --- |
+| **[FlowPlan](https://github.com/iahmedmalik/FlowPlan)** | Project planning with task dependencies, critical path scheduling and slack calculations. Requirements, scheduling logic and automated tests live alongside the code. | [Live app](https://flow-plan-five.vercel.app/) · [Product brief](https://github.com/iahmedmalik/FlowPlan/blob/main/docs/PRD.md) · [Test report](https://github.com/iahmedmalik/FlowPlan/blob/main/docs/test-report.md) |
+| **[QueueCare](https://github.com/iahmedmalik/QueueCare)** | A real-time clinic queue with urgent-patient priority, separate reception/doctor/patient views, and database access controls. | [Live app](https://queuecare-zeta.vercel.app/) · [Business requirements](https://github.com/iahmedmalik/QueueCare/blob/main/docs/BRD.md) · [Test report](https://github.com/iahmedmalik/QueueCare/blob/main/docs/test-report.md) |
+| **[CommitteeKeeper](https://github.com/iahmedmalik/CommitteeKeeper)** | A savings committee tracker for payments, receipts, turns and an audit history. Business rules and data integrity shape the implementation. | [Live app](https://committeekeeper.vercel.app/) · [Business rules](https://github.com/iahmedmalik/CommitteeKeeper/blob/main/docs/business-rules.md) · [Test report](https://github.com/iahmedmalik/CommitteeKeeper/blob/main/docs/test-report.md) |
+| **[PulseMetrics](https://github.com/iahmedmalik/PulseMetrics)** | A local product-analytics prototype covering event tracking, funnels and A/B testing, with API, database and browser tests. | [Product brief](https://github.com/iahmedmalik/PulseMetrics/blob/main/docs/PRD.md) · [Test report](https://github.com/iahmedmalik/PulseMetrics/blob/main/docs/TEST-REPORT.md) |
+| **[SauceDemo manual QA](https://github.com/iahmedmalik/saucedemo-qa-testing)** | Test case design, execution records and defect reports for a public demo shop. Four login cases are recorded as executed; the remaining scope is unexecuted. | [Test workbook](https://github.com/iahmedmalik/saucedemo-qa-testing/blob/main/test-cases/manual-test-cases.xlsx) · [Execution report](https://github.com/iahmedmalik/saucedemo-qa-testing/blob/main/test-results/test-execution-report.md) |
 
-**[SauceDemo QA ↗](https://github.com/ahmed-malikk/saucedemo-qa-testing)**  
-A manual testing sample with test cases, execution records, and defect reports. Four login cases are recorded as executed; the rest of the scope is marked as planned.
+These are personal portfolio projects. Their repositories document scope, test evidence and remaining work. Watch all four project films on my [portfolio](https://ahmed-m-portfolio.vercel.app/#work).
 
-These are personal projects. Each repository has its own scope, test evidence, and remaining work.
+## Experience that informs the work
 
-### What I work with
+My client-facing background includes HOF Global, ibex, and LiveAdmins / CallStorm. At iTechGemini, my Project Management internship involved Jira and ClickUp tracking, sprint records, meeting actions and project documentation. That experience taught me to listen carefully, keep records clear and make the next step easy to follow.
 
-**Build:** TypeScript, Next.js, SQL, Supabase  
-**Check:** Playwright, Vitest, manual test cases  
-**Coordinate:** Jira, ClickUp, HubSpot, requirements and status updates
+## Away from the screen
 
-### A little background
+Football and sport are a big part of what I enjoy outside work.
 
-I’ve worked in sales and client-facing roles at HOF Global, ibex, LiveAdmins, and CallStorm. During my PM internship at iTechGemini, I supported task tracking, sprint records, meeting actions, and project documentation.
-
-The thread through all of it: understand the need, keep the work organized, and make the next step clear.
+If you’re hiring for software development, QA or project coordination, I’d be glad to talk. [Email me](mailto:ahmedmalikk494@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/).
