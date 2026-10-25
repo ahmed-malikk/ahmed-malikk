@@ -1,12 +1,10 @@
-# Ahmed M.
+![Ahmed M. — Software, testing and project coordination](assets/profile-header.svg)
 
 **Software Engineer · Software QA · Client & Project Coordination**
 
 I build and test web applications, with a background in client communication and project coordination. Based in Lahore, Pakistan. Open to jobs and internships where I can contribute to software development, testing or project delivery.
 
-[Portfolio](https://ahmed-m-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/) · [Email](mailto:ahmedmalikk494@gmail.com)
-
-![Portfolio palette: charcoal, olive, warm white and lime](assets/studio-palette.svg)
+[![View portfolio](assets/link-portfolio.svg)](https://ahmed-m-portfolio.vercel.app/) [![LinkedIn](assets/link-linkedin.svg)](https://www.linkedin.com/in/ahmedmalik494/) [![Get in touch](assets/link-contact.svg)](mailto:ahmedmalikk494@gmail.com)
 
 ## About me
 
