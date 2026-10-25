@@ -6,25 +6,24 @@ I build and test web applications, with a background in client communication and
 
 [Portfolio](https://ahmed-m-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmedmalik494/) · [Email](mailto:ahmedmalikk494@gmail.com)
 
-[![Ahmed’s interactive portfolio: an original 3D character in a checkerboard studio](https://raw.githubusercontent.com/iahmedmalik/ahmed-m-portfolio/main/public/readme/hero-preview.gif)](https://ahmed-m-portfolio.vercel.app/)
+![Portfolio palette: charcoal, olive, warm white and lime](assets/studio-palette.svg)
 
-## How I work
+## About me
 
-<a href="https://ahmed-m-portfolio.vercel.app/"><img align="right" width="135" src="https://raw.githubusercontent.com/iahmedmalik/ahmed-m-portfolio/main/public/readme/avatar-preview.gif" alt="Animated illustrated avatar with glasses, following the cursor" /></a>
+I like understanding a problem before writing its solution: ask the useful questions, document the requirements, build something practical, and test it. My client-facing background helps me explain technical work clearly and keep the next step organised.
 
-I like understanding the problem before writing the solution: ask questions, document the requirements, build something useful, and check that it behaves as expected.
+## Tech stack
 
-- **Build:** TypeScript, Next.js, SQL and Supabase.
-- **Test:** Playwright, Vitest, manual test case design, API testing and defect reporting.
-- **Coordinate:** Jira, ClickUp, HubSpot, sprint tracking, meeting actions and status updates.
-
-The hero and avatar above are animated recordings of my portfolio. Click either to explore the interactive version.
-
-<br clear="all" />
+| Area | Tools and skills |
+| --- | --- |
+| **Languages & web** | TypeScript · JavaScript · React · Next.js · HTML · CSS |
+| **Data & backend** | SQL · PostgreSQL · Supabase · Express |
+| **Quality assurance** | Playwright · Vitest · Manual testing · API testing · Test case design · Defect reporting |
+| **Project coordination** | Jira · ClickUp · HubSpot · Requirements analysis · Sprint tracking · Status reporting |
 
 ## Selected work
 
-| Project | The problem I worked on | Explore |
+| Project | What it does | Explore |
 | --- | --- | --- |
 | **[FlowPlan](https://github.com/iahmedmalik/FlowPlan)** | Project planning with task dependencies, critical path scheduling and slack calculations. Requirements, scheduling logic and automated tests live alongside the code. | [Live app](https://flow-plan-five.vercel.app/) · [Product brief](https://github.com/iahmedmalik/FlowPlan/blob/main/docs/PRD.md) · [Test report](https://github.com/iahmedmalik/FlowPlan/blob/main/docs/test-report.md) |
 | **[QueueCare](https://github.com/iahmedmalik/QueueCare)** | A real-time clinic queue with urgent-patient priority, separate reception/doctor/patient views, and database access controls. | [Live app](https://queuecare-zeta.vercel.app/) · [Business requirements](https://github.com/iahmedmalik/QueueCare/blob/main/docs/BRD.md) · [Test report](https://github.com/iahmedmalik/QueueCare/blob/main/docs/test-report.md) |
